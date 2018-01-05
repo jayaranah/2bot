@@ -19,12 +19,12 @@ except ImportError:
 
 kr = KRIS.LINE()
 #kr.login(qr=True)
-kr.login(token="Eo8PBYfYXqMa46XIWsD9.3UrGMEjECFh9gbFk6EFekq.O4xAC8obAxI4PKEu2NgVJsPXwJbXKFPQ/rJLBffjPHo=")
+kr.login(token="")
 kr.loginResult()
 
 kr1 = KRIS.LINE()
 #kr1.login(qr=True)
-kr1.login(token="EopoZQ49sfSOAX6hBeH7.KN6gqRyZQ0iuRiU5jNIj1W.xbYexNOBmhqAs3waOGtE/MkcIFPa3EKEr3KESNyS6Xk=")
+kr1.login(token="")
 
 
 print "╔═════════════════════════\n║╔════════════════════════\n║╠❂➣ KRIS BERHASIL LOGIN\n║╚════════════════════════\n╚═════════════════════════"
